@@ -1,3 +1,3 @@
 import calendar
 v= calendar.TextCalendar()
-print(v.pryear(2026))
+print(v.pryear(2027))
